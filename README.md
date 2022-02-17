@@ -10,5 +10,6 @@ https://w3id.org/covido#
 ## Contacts:
 **Sumit Sharma PhD (National Institute of Technology Kurukshetra, Haryana) **
 <sharma24h@gmail.com>, <phdsumit@outlook.com>
+
 **Dr. Sarika Jain (National Institute of Technology Kurukshetra, Haryana) **
 <jasarika@gmail.com>, <jasarika@nitkkr.ac.in>
