@@ -11,9 +11,10 @@ https://w3id.org/covido#
 <sharma24h@gmail.com>, <phdsumit@outlook.com>
 
 **Dr. Sarika Jain (National Institute of Technology Kurukshetra, Haryana) **
-<jasarika@gmail.com>, <jasarika@nitkkr.ac.in>
+<jasarika@nitkkr.ac.in>, <jasarika@gmail.com>
 
 ## Acknowledgements:
-The authors would like to thanks Abhisek Sharma PhD Scholar, National Institute of Technology Kurukshetra, Haryana, India abhishek_61900048@nitkkr.ac.in
-
-Sumit Dalal PhD Scholar, National Institute of Technology Kurukshetra, Haryana, India sumitdalal9050@gmail.com for motivation and support.
+The authors would like to thanks Abhisek Sharma, Ph.D. Scholar, National Institute of Technology Kurukshetra, Haryana, India abhishek_61900048@nitkkr.ac.in
+and
+Sumit Dalal, Ph.D. Scholar, National Institute of Technology Kurukshetra, Haryana, India sumitdalal9050@gmail.com
+for motivation and support.
